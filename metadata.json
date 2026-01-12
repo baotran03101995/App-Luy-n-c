@@ -1,0 +1,7 @@
+{
+  "name": "Bé Luyện Đọc - Chiếc Cầu Mới",
+  "description": "Ứng dụng luyện đọc tương tác dành cho trẻ 5-7 tuổi với hỗ trợ âm thanh, hình ảnh minh họa và chế độ giáo viên.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
